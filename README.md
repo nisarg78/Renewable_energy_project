@@ -2,7 +2,7 @@
 
 
 ## Overview
-This repository contains Python code for analyzing and modeling sustainable energy data. The code utilizes the pandas library for data manipulation, scikit-learn for machine learning tasks, and matplotlib for data visualization. The primary goal is to predict the renewable energy share in the total final energy consumption based on various features.
+This repository contains Python code for analyzing and modeling sustainable energy data. The code utilizes the pandas library for data manipulation, scikit-learn for machine learning tasks, and matplotlib for data visualization. The primary goal is to predict the renewable energy share in the total final energy consumption based on various features. Dataset is attach to this repo
 
 ## Getting Started
 To run the code, make sure you have Python installed on your machine. Additionally, install the required libraries by running the following command:
