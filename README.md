@@ -33,8 +33,8 @@ The script includes an optional step to generate a pandas profiling report using
 ```
 pip install pandas-profiling
 ```
-#Visualization
+# Visualization
 The script visualizes the predicted versus actual values for the regression model using a scatter plot.
 
-#Conclusion
+# Conclusion
 This project provides a comprehensive analysis of sustainable energy data, including regression and classification models for predicting renewable energy shares. Feel free to explore the code and adapt it to your specific use case.
