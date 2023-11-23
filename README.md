@@ -14,7 +14,7 @@ pip install pandas scikit-learn matplotlib pandas-profiling
 The dataset used for this project is sourced from 'global-data-on-sustainable-energy.csv'. Upon loading the data, the script provides basic information about the DataFrame, including data types and missing values.
 
 ## Data Preprocessing
-Several preprocessing steps are performed to ensure data quality and compatibility with machine learning models. These include:
+Several preprocessing steps are performed to ensure data quality and compatibility with machine learning models. These includes:
 
 Converting the 'Year' column to datetime type.
 Converting 'Access to clean fuels for cooking' column to boolean type.
