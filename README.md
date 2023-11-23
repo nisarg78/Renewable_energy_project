@@ -21,6 +21,8 @@ Converting 'Access to clean fuels for cooking' column to boolean type.
 Selecting relevant numeric columns and converting them to numeric types.
 Handling missing values.
 
+
+
 # Model Training - Regression
 The regression model aims to predict the 'Renewable energy share in the total final energy consumption (%)' using selected features. The script splits the data into training and testing sets, creates a linear regression model, fits the model to the training data, makes predictions on the testing data, and evaluates the model using mean squared error (MSE) and R-squared.
 
